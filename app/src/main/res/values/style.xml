@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="min_card_style" >
+<!--        <item name="android:layout_margin">16dp</item>-->
+
+    </style>
+</resources>

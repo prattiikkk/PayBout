@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COLLEGE/TYCS/PROJECT SEM - 1/app/src/main/res/layout/activity_login.xml" value="0.259375" />
+        <entry key="..\:/COLLEGE/TYCS/PROJECT SEM - 1/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/COLLEGE/TYCS/PROJECT SEM - 1/app/src/main/res/layout/activity_sign_up.xml" value="0.259375" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/curve_corner.xml" value="0.2195" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_bets.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_home.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_profile.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_social.xml" value="0.238" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/ic_ufc_logo_background.xml" value="0.2345" />
+        <entry key="..\:/PayBout-master/app/src/main/res/drawable/round_corner.xml" value="0.2345" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_bellator_fight_cards.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_confirm_bet.xml" value="0.37083333333333335" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_edit_information.xml" value="0.33" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_one_fight_cards.xml" value="0.35260416666666666" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_profile.xml" value="0.35260416666666666" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/activity_ufc_fight_cards.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/fragment_bets.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/fragment_social.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/item_image.xml" value="0.33" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/item_image_margin.xml" value="0.365625" />
+        <entry key="..\:/PayBout-master/app/src/main/res/layout/min_item_image.xml" value="0.36666666666666664" />
+        <entry key="..\:/PayBout-master/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.365625" />
+        <entry key="..\:/PayBout-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1515" />
+        <entry key="..\:/PayBout-master/app/src/main/res/mipmap-anydpi-v26/ic_ufc_logo.xml" value="0.2345" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

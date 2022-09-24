@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PayBout</string>
+    <string name="fullname">Fullname</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="old_user">Already have an account? Login</string>
+    <string name="new_user">Create an accout? Sign up</string>
+    <string name="trending_fights">Trending Fights</string>
+    <string name="view_all">view all</string>
+    <string name="logout">Logout</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="invite_earn"><![CDATA[Invite & Earn]]></string>
+    <string name="about_paybout">About PayBout</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="ufc_fights">UFC Fights</string>
+    <string name="one_fights">ONE Fights</string>
+    <string name="bellator_fights">Bellator Fights</string>
+    <string name="edit_information">Edit Information</string>
+
+</resources>
