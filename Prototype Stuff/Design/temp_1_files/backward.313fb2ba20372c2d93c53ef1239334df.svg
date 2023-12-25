@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Backward/active</title>
-    <g id="Backward/active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Container" fill="#030303" fill-rule="nonzero" x="4" y="4" width="11" height="11" rx="3"></rect>
-        <rect id="Container" stroke="#F2F2F2" fill="#7F7F7F" fill-rule="nonzero" x="0.5" y="0.5" width="12" height="12" rx="3"></rect>
-    </g>
-</svg>
